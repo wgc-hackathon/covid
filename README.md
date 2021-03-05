@@ -32,7 +32,7 @@ We will also be outlining some predefined projects that we think might be useful
 
 ### Choosing a contribution
 
-Although we encourage you to develop your own novel methods that researchers may not have thought of, we have outlined some projects to get started.
+Although we encourage you to develop your own novel methods that researchers may not have thought of, we have outlined some [projects](https://github.com/wgc-hackathon/covid/projects) to get started.
 
 If you don't already have something specific you would like to contribute, project goals are tracked in [GitHub issues](https://github.com/wgc-hackathon/covid/issues).
 Issues are flagged with if they require programming experience, documentation, code review, or "flat-file" data analysis for example in excel.
