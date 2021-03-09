@@ -46,12 +46,13 @@ We will also be outlining some predefined projects that we think might be useful
 There is a lot of complex biology involved in studying COVID.
 Below are some resources to help get you get to grips with the basics.
 
- - [The genetics of Covid-19: Dr Katrina Lythgoe on mutations, variants and how to spot them](https://www.youtube.com/watch?v=4pWSMnpVT0M). Dr Katrina Lythgoe discusses researching the mutations and variants of coronavirus.
+ - [The genetics of Covid-19: Dr Katrina Lythgoe on mutations, variants and how to spot them](https://www.youtube.com/watch?v=4pWSMnpVT0M). An interview with Dr Katrina Lythgoe who discusses researching the mutations and variants of coronavirus.
  - [Kurgesagt on COVID](https://www.youtube.com/watch?v=BtN-goy9VOY). A general <10 minute intro to the coronavirus from the begining of the pandemic.
  - [Ted-Ed on COVID](https://www.youtube.com/watch?v=D9tTi-CDjDU). Another <5 minute intro to the coronavirus.
  - [Covid variants: What happens when a virus mutates? - BBC News](https://www.youtube.com/watch?v=dXE8xcMrjGk). A 2 minute intro to variants of concern.
  - [Mayo Clinic Insights: What is a COVID-19 variant strain](https://www.youtube.com/watch?v=TiuNBK8jCiQ). This outlines the three main variants of concern currently known.
  - [Sanger Institute - What does it take to sequence tens of thousands of COVID-19 samples?](https://www.youtube.com/watch?v=Fd40gunBTN0) A short film showing the laboratories where the sequencing is carried out on campus.
+ - [Lecture 2: "Coronavirus biology"](https://www.youtube.com/watch?v=r2mOU2qOCYs) A lecture from a series of lectures from MIT on the coronavirus.
 
 ### Choosing a contribution
 
@@ -65,3 +66,7 @@ Issues are flagged with if they require programming experience, documentation, c
 
 Once you have decided which issue you want to contribute to, follow [the steps on this page](https://www.dataschool.io/how-to-contribute-on-github/).
 Note that step 9 is where you actually make changes to the data and code.
+
+### Coding and data science skills
+
+If you want to brush up on code skills before getting started, we have started a link dump [here](https://github.com/wgc-hackathon/covid/issues/1) for resources that help you code and perform data science.
