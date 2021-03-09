@@ -1,5 +1,16 @@
 # COVID-19 Open Data Analysis To Identify The Next Variant Of Concern
 
+## Description
+
+Scientists at the Wellcome Genome Campus have so far sequenced over 170,000 coronavirus genomes in order to track the spread of the virus and identify new variants.
+Only a small number of these variants pose a possible risk, due to mutations making them more virulent or transmissible, or potentially affecting the efficacy of the vaccine.
+The aim of this project is to use publicly available data to identify these so-called ‘Variants of Concern’.
+There are various ways you could do this, as well as a number of existing resources to make use of.
+However, feel free to be as creative as you like in your methods and analysis.
+To that end, this project would be suitable for experienced programmers, but you don’t necessarily have to code to take part.
+There are plenty of other important ways you could contribute, such as using the existing tools to put together a report.
+The main requirement is an interest in using the available data to help identify, understand and communicate potential Variants of Concern.
+
 ## Objective
 
 COVID variants are cropping up all over the world.
@@ -29,6 +40,18 @@ Of course these might seem like massive tasks, and you will have a lot of questi
 We will also be outlining some predefined projects that we think might be useful for the community, so feel free to contribute to those projects if you don't want to do your own.
 
 ## Contributing
+
+### Biology background
+
+There is a lot of complex biology involved in studying COVID.
+Below are some resources to help get you get to grips with the basics.
+
+ - [The genetics of Covid-19: Dr Katrina Lythgoe on mutations, variants and how to spot them](https://www.youtube.com/watch?v=4pWSMnpVT0M). Dr Katrina Lythgoe discusses researching the mutations and variants of coronavirus.
+ - [Kurgesagt on COVID](https://www.youtube.com/watch?v=BtN-goy9VOY). A general <10 minute intro to the coronavirus from the begining of the pandemic.
+ - [Ted-Ed on COVID](https://www.youtube.com/watch?v=D9tTi-CDjDU). Another <5 minute intro to the coronavirus.
+ - [Covid variants: What happens when a virus mutates? - BBC News](https://www.youtube.com/watch?v=dXE8xcMrjGk). A 2 minute intro to variants of concern.
+ - [Mayo Clinic Insights: What is a COVID-19 variant strain](https://www.youtube.com/watch?v=TiuNBK8jCiQ). This outlines the three main variants of concern currently known.
+ - [Sanger Institute - What does it take to sequence tens of thousands of COVID-19 samples?](https://www.youtube.com/watch?v=Fd40gunBTN0) A short film showing the laboratories where the sequencing is carried out on campus.
 
 ### Choosing a contribution
 
