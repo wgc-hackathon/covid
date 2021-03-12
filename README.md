@@ -15,16 +15,19 @@ The main requirement is an interest in using the available data to help identify
 
 COVID variants are cropping up all over the world.
 Some are showing resistance to vaccines and out-compete the original strains.
-Predicting the next variant of concern will help researchers get ahead of the virus.
-This project will explore and evaluate methods of predicting the next variant of concern.
+This project aims to analyse several aspects of the [COVID-19 pandemic](https://www.gov.uk/coronavirus) using publicly available datasets with a focus on identifying or predicting the next variant of concern. This will help researchers get ahead of the virus.
 
-This project aims to analyse several aspects of the [COVID-19 pandemic](https://www.gov.uk/coronavirus) using publicly available datasets with a focus on identifying or predicting the next variant of concern.
+## Forum and workshop
+
+Throughout the hackathon, there will be a forum (insert link here) where you can ask your questions and we will be on hand to help. There will also be an opportunity to ask questions at our workshop, where we will be covering the biological concepts underpinning this project and going through how you might produce a report. Register for the workshop here: (insert link)
+
+## Contributing
 
 ### Data resources
 
 The first step might be to look at the data already available openly to researchers.
 COG-UK have a great [set of resources](https://www.cogconsortium.uk/tools-analysis/public-data-analysis-2/) to explore and use in your hackathon research.
-It would be great if you could familiarise yourself with some of those pages, but they are not always clear so please raise any issues asking questions and we will be happy to help answering them.
+It would be great if you could familiarise yourself with some of those pages, but they are not always clear so please raise any issues asking questions and we will be happy to help answering them. 
 
 ### Outcomes
 
@@ -37,9 +40,12 @@ Machine learning on fully simulated virus with all possible changes?
 Good luck to you!
 
 Of course these might seem like massive tasks, and you will have a lot of questions and that is how we can help out.
-We will also be outlining some predefined projects that we think might be useful for the community, so feel free to contribute to those projects if you don't want to do your own.
 
-## Contributing
+### Predefined projects
+
+Although we encourage you to develop your own novel methods that researchers may not have thought of, we have outlined some [projects](https://github.com/wgc-hackathon/covid/projects) that we think might be useful for the community. Feel free to contribute to those projects if you don't want to do your own.
+
+Project goals are tracked in [GitHub issues](https://github.com/wgc-hackathon/covid/issues), which are flagged to show if they require programming experience, documentation, code review, or "flat-file" data analysis for example in excel.
 
 ### Biology background
 
@@ -53,14 +59,6 @@ Below are some resources to help get you get to grips with the basics.
  - [Mayo Clinic Insights: What is a COVID-19 variant strain](https://www.youtube.com/watch?v=TiuNBK8jCiQ). This outlines the three main variants of concern currently known.
  - [Sanger Institute - What does it take to sequence tens of thousands of COVID-19 samples?](https://www.youtube.com/watch?v=Fd40gunBTN0) A short film showing the laboratories where the sequencing is carried out on campus.
  - [Lecture 2: "Coronavirus biology"](https://www.youtube.com/watch?v=r2mOU2qOCYs) A lecture from a series of lectures from MIT on the coronavirus.
-
-### Choosing a contribution
-
-Although we encourage you to develop your own novel methods that researchers may not have thought of, we have outlined some [projects](https://github.com/wgc-hackathon/covid/projects) to get started.
-
-If you don't already have something specific you would like to contribute, project goals are tracked in [GitHub issues](https://github.com/wgc-hackathon/covid/issues).
-Issues are flagged with if they require programming experience, documentation, code review, or "flat-file" data analysis for example in excel.
-
 
 ### GitHub best practice
 
