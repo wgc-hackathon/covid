@@ -43,9 +43,7 @@ Of course these might seem like massive tasks, and you will have a lot of questi
 
 ### Predefined projects
 
-Although we encourage you to develop your own novel methods that researchers may not have thought of, we have outlined some [projects](https://github.com/wgc-hackathon/covid/projects) that we think might be useful for the community. Feel free to contribute to those projects if you don't want to do your own.
-
-Project goals are tracked in [GitHub issues](https://github.com/wgc-hackathon/covid/issues), which are flagged to show if they require programming experience, documentation, code review, or "flat-file" data analysis for example in excel.
+Although we encourage you to develop your own novel methods that researchers may not have thought of, we have outlined some [projects in GitHub issues](https://github.com/wgc-hackathon/covid/issues) that we think might be useful for the community. They are flagged to show if they require programming experience, documentation, code review, or "flat-file" data analysis for example in excel. Feel free to contribute to those projects if you don't want to do your own.
 
 ### Biology background
 
