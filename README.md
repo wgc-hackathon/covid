@@ -6,7 +6,7 @@ Scientists at the Wellcome Genome Campus have so far sequenced over 170,000 coro
 Only a small number of these variants pose a possible risk, due to mutations making them more virulent or transmissible, or potentially affecting the efficacy of the vaccine.
 The aim of this project is to use publicly available data to identify these so-called ‘Variants of Concern’.
 There are various ways you could do this, as well as a number of existing resources to make use of.
-However, feel free to be as creative as you like in your methods and analysis.
+Feel free to be as creative as you like in your methods and analysis.
 To that end, this project would be suitable for experienced programmers, but you don’t necessarily have to code to take part.
 There are plenty of other important ways you could contribute, such as using the existing tools to put together a report.
 The main requirement is an interest in using the available data to help identify, understand and communicate potential Variants of Concern.
