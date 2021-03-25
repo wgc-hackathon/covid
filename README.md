@@ -19,7 +19,7 @@ This project aims to analyse several aspects of the [COVID-19 pandemic](https://
 
 ## Forum and workshop
 
-Throughout the hackathon, there will be a forum (insert link here) where you can ask your questions and we will be on hand to help. There will also be an opportunity to ask questions at our workshop, where we will be covering the biological concepts underpinning this project and going through how you might produce a report. Register for the workshop here: https://sanger.zoom.us/webinar/register/WN_nZnD23cETfeHgS85wbyxTQ
+Throughout the hackathon, there will be a forum (insert link here) where you can ask your questions and we will be on hand to help. There will also be an opportunity to ask questions at our workshop, where we will be covering the biological concepts underpinning this project and going through how you might produce a report. Register for the workshop [here](https://sanger.zoom.us/webinar/register/WN_nZnD23cETfeHgS85wbyxTQ).
 
 ## Contributing
 
