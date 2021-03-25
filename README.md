@@ -19,7 +19,7 @@ This project aims to analyse several aspects of the [COVID-19 pandemic](https://
 
 ## Discussions and workshop
 
-Throughout the hackathon, you can use [discussions](https://github.com/wgc-hackathon/covid/discussions) to ask questions and we will be on hand to help- you're welcome to help each other too! There will also be an opportunity to ask questions at our workshop, where we will be covering the biological concepts underpinning this project and going through how you might produce a report. Register for the workshop [here](https://sanger.zoom.us/webinar/register/WN_nZnD23cETfeHgS85wbyxTQ).
+Throughout the hackathon, you can use [Discussions](https://github.com/wgc-hackathon/covid/discussions) to ask questions and we will be on hand to help (you're welcome to help each other too!). There will also be an opportunity to ask questions at our workshop, where we will be covering the biological concepts underpinning this project and going through how you might produce a report. Register for the workshop [here](https://sanger.zoom.us/webinar/register/WN_nZnD23cETfeHgS85wbyxTQ).
 
 ## Contributing
 
