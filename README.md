@@ -17,9 +17,9 @@ COVID variants are cropping up all over the world.
 Some are showing resistance to vaccines and out-compete the original strains.
 This project aims to analyse several aspects of the [COVID-19 pandemic](https://www.gov.uk/coronavirus) using publicly available datasets with a focus on identifying or predicting the next variant of concern. This will help researchers get ahead of the virus.
 
-## Forum and workshop
+## Discussions and workshop
 
-Throughout the hackathon, there will be a forum (insert link here) where you can ask your questions and we will be on hand to help. There will also be an opportunity to ask questions at our workshop, where we will be covering the biological concepts underpinning this project and going through how you might produce a report. Register for the workshop [here](https://sanger.zoom.us/webinar/register/WN_nZnD23cETfeHgS85wbyxTQ).
+Throughout the hackathon, you can use [discussions](https://github.com/wgc-hackathon/covid/discussions) to ask questions and we will be on hand to help- you're welcome to help each other too! There will also be an opportunity to ask questions at our workshop, where we will be covering the biological concepts underpinning this project and going through how you might produce a report. Register for the workshop [here](https://sanger.zoom.us/webinar/register/WN_nZnD23cETfeHgS85wbyxTQ).
 
 ## Contributing
 
