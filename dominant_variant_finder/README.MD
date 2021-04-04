@@ -3,7 +3,7 @@
 ## Version History
 ### v0.1 - First release
 * Proof of concept using 'imaginary data':
-![Graph of imaginary data](dominant_variant_finder/Imaginary_Data_Graph.png)
+![Graph of imaginary data](Imaginary_Data_Graph.png)
 * Imports dataset csv file
 * Determines percentage of daily cases related to each variant (column)
 * Calculate 7-day change in percentage of cases related to variant
