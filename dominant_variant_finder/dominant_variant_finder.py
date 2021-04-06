@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Dominant Variant Finder v0.1 (2021-04-04)
+Dominant Variant Finder v0.1.1 (2021-04-06)
 @author: maddyboo
 """
 
@@ -33,10 +33,9 @@ pc_data = {}
 
 # loop to iterate through all the variant columns, calculating percentage
 # contribution of variant to the daily new cases total
-for variant in range(len(variants_list)):
-    variant_name = variants_list[variant]
-    percentage = (cleaned_data[variant_name]/cleaned_data['Total'])*100
-    pc_data[variant_name] = percentage
+for variant in variants_list:
+    percentage = (cleaned_data[variant]/cleaned_data['Total'])*100
+    pc_data[variant] = percentage
 
 # combine each column of results into a new table of variant percentage
 # contribution per day
@@ -58,11 +57,11 @@ pc_change_week.plot.line()
 rapid_increase_triggered = {}
 
 # loop to iterate through variants and find growth rate >5% per week
-for variant in range(len(variants_list)):
-    query = str(variants_list[variant]+" > 5")
+for variant in variants_list:
+    query = str(variant+" > 5")
     rapid_date = pc_change_week.query(query).first('1D').index
     if rapid_date.size > 0:
-        rapid_increase_triggered[variants_list[variant]] = rapid_date
+        rapid_increase_triggered[variant] = rapid_date
 
 # combine the dates when each variant first passed rapid growth trigger
 rapid_increase_table = pd.DataFrame.from_dict(rapid_increase_triggered,
@@ -73,11 +72,11 @@ rapid_increase_table = pd.DataFrame.from_dict(rapid_increase_triggered,
 threshold_triggered = {}
 
 # loop to iterate through variants and find first date above 20% threshold
-for variant in range(len(variants_list)):
-    query = str(variants_list[variant]+" > 20")
+for variant in variants_list:
+    query = str(variant+" > 20")
     threshold_date = pc_table.query(query).first('1D').index
     if threshold_date.size > 0:
-        threshold_triggered[variants_list[variant]] = threshold_date
+        threshold_triggered[variant] = threshold_date
 
 # combine the dates when each variant first passed threshold
 threshold_table = pd.DataFrame.from_dict(threshold_triggered, orient="index",
