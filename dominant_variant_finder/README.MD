@@ -1,6 +1,8 @@
 # Dominant Variant Finder
 
 ## Version History
+### v0.1.1
+* Improved loop code - calling variant name more efficiently! Thx @bethsampher
 ### v0.1 - First release
 * Proof of concept using 'imaginary data':
 ![Graph of imaginary data](Imaginary_Data_Graph.png)
