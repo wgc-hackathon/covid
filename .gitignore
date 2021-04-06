@@ -127,3 +127,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+dominant_variant_finder/.pylint.d/dominant_variant_finder1.stats
